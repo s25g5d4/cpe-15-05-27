@@ -65,7 +65,7 @@ int main()
 
         printf("Scenario #%d\n", ++case_num);
 
-        static int elem[999999]; // stack too small
+        static int elem[999999];
         
         int i;
         for (i = 0; i < t; ++i) {

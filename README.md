@@ -9,7 +9,5 @@
 - [540: Team Queue](http://uva.onlinejudge.org/external/5/540.html)
 - [536: Tree Recovery](http://uva.onlinejudge.org/external/5/536.html)
 
-目前每題有兩種版本， C++11 與 C ，未來預計加入 C++98
-
-**540 與 536 兩題之 C 語言版本尚未測試**
+目前每題有兩種版本， C++11 與 ANSI C
 
